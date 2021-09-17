@@ -1,4 +1,4 @@
-# Omurbek Arykbaev
+# Omurbek Arykbaev ![](https://komarev.com/ghpvc/?username=omurbekarykbaev)
 I'm Omurbek from Kyrgyzstan. I really enjoy learning languages and frameworks like React.
 
 ## Skills and Experience
