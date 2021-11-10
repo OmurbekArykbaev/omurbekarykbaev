@@ -2,11 +2,11 @@
 I'm Omurbek from Kyrgyzstan. I really enjoy learning languages and frameworks like React.
 
 ## Skills and Experience
-* 💻 HTML, CSS, JS
-* ⚛ React
+* 💻 JavaScript ES6
+* ⚛ React - Redux
+* Sass, Bootstrap, Tailwind
 * Git / GitHub
 * Docker
-* NodeJs
 
-- 🌱 I’m currently learning DOM JS
-- 💬 Ask me about https://tlgg.ru/@Twonpix
+- 💬 Ask me about https://t.me/twonpix
+- 💬 Let's find me https://www.linkedin.com/in/oarykbaev/
