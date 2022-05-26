@@ -4,8 +4,6 @@ I make web and single-page applications. Current time i write pet-projects, and 
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurbekarykbaev&layout=compact" />
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=omurbekarykbaev&show_icons=true&count_private=true" align="right" />
-
 #### 🔭 My technical skills:
 
 1. JavaScript ES6
@@ -15,6 +13,8 @@ I make web and single-page applications. Current time i write pet-projects, and 
 5. Axios Requests
 6. TypeScript
 7. Git/GitHub
+
+<img  align="right"  width="47%" src="https://github-readme-stats.vercel.app/api?username=omurbekarykbaev&show_icons=true&count_private=true" />
 
 #### ✨ Projects:
 
