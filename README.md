@@ -1,14 +1,23 @@
-# Omurbek Arykbaev ![](https://komarev.com/ghpvc/?username=omurbekarykbaev)
-### I'm Omurbek from Kyrgyzstan. I really enjoy learning languages and frameworks like React.
+## 👋 Hello there! My name is Omurbek. I am software engineer, i really enjoy learning languages and frameworks like React.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omurbekarykbaev&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurbekarykbaev&layout=compact" />
+I make web and single-page applications. Current time i write pet-projects, and in future i am going to grow FullStack Developer.
 
----
-### Social Links
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omurbekarykbaev&layout=compact" />
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=omurbekarykbaev&show_icons=true&count_private=true" align="right" />
+
+#### 🔭 My technical skills:
+
+1. JavaScript ES6
+2. React
+3. Redux, Redux Toolkit.
+4. Scss/Sass, Bootstrap, Material UI, StyledComponent
+5. Axios Requests
+6. TypeScript
+7. Git/GitHub
+
+#### ✨ Projects:
+
+1. MERN SHOP
+2. CV Portfolio
+3. Todo App
